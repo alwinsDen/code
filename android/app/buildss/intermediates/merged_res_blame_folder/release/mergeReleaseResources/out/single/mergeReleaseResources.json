@@ -1,7 +1,15 @@
 [
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_foundation.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_foundation.ttf"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_antdesign.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_antdesign.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_node_modules_exporouter_assets_forward.png.flat",
@@ -32,8 +40,24 @@
         "source": "com.anonymous.dashwaverntest.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_assets_images_japanesemountain.png.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/assets_images_japanesemountain.png"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_feather.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_feather.ttf"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_entypo.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_entypo.ttf"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_evilicons.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_evilicons.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
@@ -48,20 +72,32 @@
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
     },
     {
-        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_assets_fonts_spacemonoregular.ttf.flat",
-        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/assets_fonts_spacemonoregular.ttf"
-    },
-    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "com.anonymous.dashwaverntest.app-main-64:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_assets_images_japanesewave.png.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/assets_images_japanesewave.png"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_assets_images_japanesecherry.png.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/assets_images_japanesecherry.png"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -70,6 +106,10 @@
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_splashscreen_logo.png.flat",
         "source": "com.anonymous.dashwaverntest.app-main-64:/drawable-mdpi/splashscreen_logo.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
@@ -88,6 +128,10 @@
         "source": "com.anonymous.dashwaverntest.app-main-64:/drawable/ic_launcher_background.xml"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_zocial.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_zocial.ttf"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
     },
@@ -100,12 +144,24 @@
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome6_brands.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome6_brands.ttf"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.anonymous.dashwaverntest.app-main-64:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "com.anonymous.dashwaverntest.app-main-64:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
@@ -114,6 +170,14 @@
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_node_modules_exporouter_assets_error.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/node_modules_exporouter_assets_error.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_simplelineicons.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_simplelineicons.ttf"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable_rn_edit_text_material.xml.flat",
@@ -128,12 +192,16 @@
         "source": "com.anonymous.dashwaverntest.app-main-64:/drawable-hdpi/splashscreen_logo.png"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxhdpi_splashscreen_logo.png.flat",
+        "source": "com.anonymous.dashwaverntest.app-main-64:/drawable-xxhdpi/splashscreen_logo.png"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xhdpi_splashscreen_logo.png.flat",
         "source": "com.anonymous.dashwaverntest.app-main-64:/drawable-xhdpi/splashscreen_logo.png"
     },
     {
-        "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxhdpi_splashscreen_logo.png.flat",
-        "source": "com.anonymous.dashwaverntest.app-main-64:/drawable-xxhdpi/splashscreen_logo.png"
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialicons.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialicons.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
@@ -144,12 +212,20 @@
         "source": "com.anonymous.dashwaverntest.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_octicons.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_octicons.ttf"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontisto.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontisto.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
@@ -168,16 +244,24 @@
         "source": "com.anonymous.dashwaverntest.app-main-64:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_assets_images_dashwave.png.flat",
-        "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/assets_images_dashwave.png"
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome6_regular.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome6_regular.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
     },
     {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-mdpi_assets_images_japaneselogo.png.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-mdpi/assets_images_japaneselogo.png"
+    },
+    {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
         "source": "com.anonymous.dashwaverntest.app-res-58:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.anonymous.dashwaverntest.app-release-63:/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome6_solid.ttf.flat",
+        "source": "com.anonymous.dashwaverntest.app-res-58:/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome6_solid.ttf"
     },
     {
         "merged": "com.anonymous.dashwaverntest.app-release-63:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",

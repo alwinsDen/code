@@ -5,7 +5,7 @@ import { useThemeColor } from '@/hooks/useThemeColor';
 export type ThemedTextProps = TextProps & {
   lightColor?: string;
   darkColor?: string;
-  type?: 'default' | 'title' | 'defaultSemiBold' | 'subtitle' | 'link';
+  type?: 'default' | 'title' | 'defaultSemiBold' | 'subtitle' | 'link' | 'japanese' | 'japaneseTitle' | 'japaneseSubtitle';
 };
 
 export function ThemedText({
@@ -26,6 +26,9 @@ export function ThemedText({
         type === 'defaultSemiBold' ? styles.defaultSemiBold : undefined,
         type === 'subtitle' ? styles.subtitle : undefined,
         type === 'link' ? styles.link : undefined,
+        type === 'japanese' ? styles.japanese : undefined,
+        type === 'japaneseTitle' ? styles.japaneseTitle : undefined,
+        type === 'japaneseSubtitle' ? styles.japaneseSubtitle : undefined,
         style,
       ]}
       {...rest}
@@ -55,6 +58,22 @@ const styles = StyleSheet.create({
   link: {
     lineHeight: 30,
     fontSize: 16,
-    color: '#0a7ea4',
+    color: '#E63946',
+  },
+  japanese: {
+    fontSize: 16,
+    lineHeight: 24,
+    fontWeight: '400',
+  },
+  japaneseTitle: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    lineHeight: 36,
+    letterSpacing: -0.5,
+  },
+  japaneseSubtitle: {
+    fontSize: 18,
+    fontWeight: '500',
+    lineHeight: 24,
   },
 });

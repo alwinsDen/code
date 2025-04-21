@@ -15,7 +15,7 @@
   --ndk-version \
   26 \
   --output \
-  /tmp/agp-prefab-staging11763468834798792274/staged-cli-output \
+  /tmp/agp-prefab-staging2253096730845062448/staged-cli-output \
   /root/.gradle/caches/8.10.2/transforms/631814f8bfae65bc2b4569d6675af941/transformed/react-android-0.76.6-release/prefab \
   /workspace/code/android/app/build/intermediates/cxx/refs/react-native-reanimated/4z3q473x \
   /root/.gradle/caches/8.10.2/transforms/4a2e20dadc61d76307eb5491a66f89ca/transformed/hermes-android-0.76.6-release/prefab \
