@@ -1,0 +1,6 @@
+/usr/bin/ninja \
+  -C \
+  /workspace/code/android/app/.cxx/RelWithDebInfo/0o1g146i/x86_64 \
+  appmodules \
+  react_codegen_rnscreens \
+  react_codegen_safeareacontext
